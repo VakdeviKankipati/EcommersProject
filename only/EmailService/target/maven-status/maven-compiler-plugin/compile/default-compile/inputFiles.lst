@@ -1,0 +1,4 @@
+/workspace/only/EmailService/src/main/java/com/vakya/emailservice/EmailServiceApplication.java
+/workspace/only/EmailService/src/main/java/com/vakya/emailservice/consumer/SendEmailEventConsumer.java
+/workspace/only/EmailService/src/main/java/com/vakya/emailservice/dtos/SendEmailEventDto.java
+/workspace/only/EmailService/src/main/java/com/vakya/emailservice/utils/EmailUtil.java

@@ -1,0 +1,5 @@
+com/vakya/emailservice/dtos/SendEmailEventDto.class
+com/vakya/emailservice/consumer/SendEmailEventConsumer$1.class
+com/vakya/emailservice/EmailServiceApplication.class
+com/vakya/emailservice/consumer/SendEmailEventConsumer.class
+com/vakya/emailservice/utils/EmailUtil.class
